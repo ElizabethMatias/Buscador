@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_265 (OpenJDK Amazon Corretto)
+Main-Class: bin.Buscador
+Class-Path: 
+X-COMMENT: Mian-Class will be added automatically by build
